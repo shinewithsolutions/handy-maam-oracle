@@ -1,0 +1,46 @@
+{
+  "id": "/handy-maam-oracle/",
+  "name": "The Handy Ma'am Oracle",
+  "short_name": "Handy Ma'am",
+  "description": "The Handy Ma'am Oracle app for oracle card draws, daily guidance, chakras, meditation, and card meanings.",
+  "start_url": "/handy-maam-oracle/",
+  "scope": "/handy-maam-oracle/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#2c4e2e",
+  "theme_color": "#2c4e2e",
+  "orientation": "portrait-primary",
+  "categories": [
+    "lifestyle",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "/handy-maam-oracle/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/handy-maam-oracle/icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/handy-maam-oracle/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/handy-maam-oracle/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
